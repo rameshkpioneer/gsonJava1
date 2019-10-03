@@ -24,7 +24,8 @@ import org.json.simple.parser.ParseException;
 
 import java.io.InputStreamReader;
 import java.util.*;
-
+//   prepareEntityObjectsForContexts(entityObject); this method will process entity object 
+//And  create  new entiy  with contexts given.
 
 /**
  * Converts the entity data which has source data (BB, IC) attribute names to riversand attribute names
